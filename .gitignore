@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 stats/
+stats_t1/
 ds004199/
 .DS_Store
 
